@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kumawatmanish05&label=Profile%20views&color=0e75b6&style=flat" alt="kumawatmanish05" /> </p>
 
-- 🔭 I’m currently working on **Netflix Data Analysis**
+- 🔭 I’m currently working on **Data Analyst Skills**
 
 - 🌱 I’m currently learning **Power BI , Tableau**
 
-- 💬 Ask me about **Python , SQL**
+- 💬 Ask me about **Python , SQL , Excel ,R **
 
 - 📫 How to reach me **unemployedmanish@gmail.com**
 
