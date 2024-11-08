@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Power BI , Tableau**
 
-- 💬 Ask me about **Python , SQL , Excel ,R **
+- 💬 Ask me about **Python , SQL , Excel ,R**
 
 - 📫 How to reach me **unemployedmanish@gmail.com**
 
