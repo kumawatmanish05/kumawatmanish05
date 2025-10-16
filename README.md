@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **Data Analyst Skills**
 
-- 🌱 I’m currently learning **Power BI , Tableau**
+- 🌱 I’m currently learning **ML , NLP, DL**
 
-- 💬 Ask me about **Python , SQL , Excel ,R**
+- 💬 Ask me about **Python , SQL , Excel ,R , Tabelu**
 
 - 📫 How to reach me **manishkumawat6669@gmail.com**
 
