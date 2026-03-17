@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Manish Kumawat</h1>
 <h3 align="center">A passionate Data Scientist </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kumawatmanish05&label=Profile%20views&color=0e75b6&style=flat" alt="kumawatmanish05" /> </p>
-
 - 🔭 I’m currently working on **Data Science Skills**
 
 - 🌱 I’m currently learning **ML , NLP , DL , MLops , FastAPI**
