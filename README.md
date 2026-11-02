@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Manish Kumawat</h1>
 <h3 align="center">A passionate Data Scientist </h3>
 
-- 🔭 I’m currently working on **Data Science Skills**
+- 🔭 I’m currently Focusing on **Getting out of Unemployement**
 
-- 🌱 I’m currently learning **ML , NLP , DL , MLops , FastAPI**
+- 🌱 I’m currently learning , Just Learning. How to survive on this EARTH ~~~ 
 
-- 💬 Ask me about **Python , SQL , Statistics**
+- 💬 Ask me about **MY LIFE **
 
 - 📫 How to reach me **manishkumawat6669@gmail.com**
 
