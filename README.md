@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently Focusing on **Getting out of Unemployement**
 
-- 🌱 I’m currently learning , Just Learning. How to survive on this EARTH ~~~ 
+- 🌱 I’m currently learning , Just Learning. How to survive on this EARTH.
 
-- 💬 Ask me about **MY LIFE **
+- 💬 Ask me about **"WHAT IS LIFE"**
 
 - 📫 How to reach me **manishkumawat6669@gmail.com**
 
