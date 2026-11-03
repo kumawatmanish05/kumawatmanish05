@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manish Kumawat</h1>
-<h3 align="center">A passionate Data Scientist </h3>
+<h3 align="center">A Data Scientist / ML Engineer </h3>
 
 - 🔭 I’m currently Focusing on **Getting out of Unemployement**
 
